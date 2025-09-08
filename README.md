@@ -1,4 +1,6 @@
 # Insurance-Dashboard-Tableau
+Interactive Tableau dashboard suite for exploring insurance performance: premiums, claims, risk segmentation, and regional patterns. Navigate across three pages—**Overview**, **Customer Demographics**, and **Directory (Geographic Claims)**—with slicers, drilldowns, and cross-filters designed for decision-makers.
+
 ## Project Summary
 This project is a comprehensive Tableau dashboard suite built to explore, visualize, and extract business insights from a real-world insurance dataset. It covers key metrics such as premium income, claims paid, customer risk segmentation, vendor efficiency, and regional performance. The dashboards are structured to support strategic decision-making for insurance businesses.
 
