@@ -5,9 +5,9 @@ Interactive Tableau dashboard suite for exploring insurance performance: premium
 This project is a comprehensive Tableau dashboard suite built to explore, visualize, and extract business insights from a real-world insurance dataset. It covers key metrics such as premium income, claims paid, customer risk segmentation, vendor efficiency, and regional performance. The dashboards are structured to support strategic decision-making for insurance businesses.
 
 The dashboard suite includes three core dashboards:
-#### 1. Overview
-#### 2. Customer Demographics
-#### 3. Directory (Geographic Claims)
+### 1. Overview
+### 2. Customer Demographics
+### 3. Directory (Geographic Claims)
 
 ## Datasets Used
 Publicly sourced from Kaggle:
@@ -15,33 +15,46 @@ Publicly sourced from Kaggle:
 
 ## Key Dashboards & Features
 
-#### Overview Dashboard
+### Overview Dashboard
 
 * Summary of total applications, claims, premiums, and claim paid amounts
 * KPIs: Claim YoY %, Premium YoY %, CPR Ratio, Approval/Denial rates
 * Donut chart visualizing approved vs rejected claims
 * Trend chart for monthly change in claim and premium percentages
 * Breakdown of claim status by insurance type
-* 
-## Dashboard Preview
+
+#### Dashboard Preview
 <p align="center">
   <img src="https://github.com/MUrvesh-99/Insurance-Dashboard-Tableau/blob/main/Overview.jpg"
        alt="AdventureWorks Power BI — Overview" width="900">
 </p>
 
-#### Customer Demographics Dashboard
+### Customer Demographics Dashboard
 * Risk level segmentation by product type (High, Medium, Low)
 * Customer profiling by age group and education level
 * Claim and premium behavior by tenure group
 * Cross-tab matrix: age, marital status, employment, approval/denial rate
 
-#### Directory Dashboard
+#### Dashboard Preview
+<p align="center">
+  <img src="https://github.com/MUrvesh-99/Insurance-Dashboard-Tableau/blob/main/Customer%20Demographics.jpg"
+       alt="AdventureWorks Power BI — Overview" width="900">
+</p
+
+### Directory Dashboard
 * Interactive map of insurance claims by U.S. states
 * Breakdown of incident severity: major loss, minor loss, total loss
 * Authority involvement analysis (police, ambulance, etc.)
 * Top 10 customers by claim amounts for monitoring and audit
 
-#### Insights & Business Value
+#### Dashboard Preview
+<p align="center">
+  <img src="https://github.com/MUrvesh-99/Insurance-Dashboard-Tableau/blob/main/Directory.jpg"
+       alt="AdventureWorks Power BI — Overview" width="900">
+</p
+
+### Insights & Business Value
+
 * Identifies loss-making trends via CPR Ratio (Claim Paid Ratio > 100%)
 * Highlights underperforming states and high-severity zones
 * Helps segment customers by demographics for targeting & retention
