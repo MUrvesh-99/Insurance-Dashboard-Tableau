@@ -39,7 +39,6 @@ Publicly sourced from Kaggle:
 <p align="center">
   <img src="https://github.com/MUrvesh-99/Insurance-Dashboard-Tableau/blob/main/Customer%20Demographics.jpg"
        alt="AdventureWorks Power BI — Overview" width="900">
-</p
 
 ### Directory Dashboard
 * Interactive map of insurance claims by U.S. states
@@ -51,8 +50,7 @@ Publicly sourced from Kaggle:
 <p align="center">
   <img src="https://github.com/MUrvesh-99/Insurance-Dashboard-Tableau/blob/main/Directory.jpg"
        alt="AdventureWorks Power BI — Overview" width="900">
-</p
-
+  
 ### Insights & Business Value
 
 * Identifies loss-making trends via CPR Ratio (Claim Paid Ratio > 100%)
