@@ -22,6 +22,12 @@ Publicly sourced from Kaggle:
 * Donut chart visualizing approved vs rejected claims
 * Trend chart for monthly change in claim and premium percentages
 * Breakdown of claim status by insurance type
+* 
+## Dashboard Preview
+<p align="center">
+  <img src="https://github.com/MUrvesh-99/Insurance-Dashboard-Tableau/blob/main/Overview.jpg"
+       alt="AdventureWorks Power BI — Overview" width="900">
+</p>
 
 #### Customer Demographics Dashboard
 * Risk level segmentation by product type (High, Medium, Low)
